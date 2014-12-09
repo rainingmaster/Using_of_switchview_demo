@@ -1,0 +1,7 @@
+本范例示范使用一个viewgrou控件使用scroll属性模仿launcher桌面滑动效果
+
+只需要将控件放入到该layout中就会放大为桌面效果并且实现滑动选择的效果
+
+如果需要放入其他控件，需要使用interuptTouch拦截touch动作，都传给主layout
+
+在zhihu_demo中有实现
